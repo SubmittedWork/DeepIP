@@ -1,10 +1,10 @@
-# Does-this-Incident-Matter
+# DeepIP
 
-A deep neural network by using a CNN based model and incorporating an attention mechanism for trivial incident prediction.
+A deep neural network by using a CNN based model and incorporating an attention mechanism for incident prioritization.
 
 ## Introduction
 
-We propose a deep-learning based approach, called DeepTIP (Deep learning based Trivial Incident Prediction), to prioritizing incidents by identifying trivial incidents. `DeepTIP.ipynb`
+We propose a deep-learning based approach, called DeepIP (Deep learning based Incident Prioritization), to prioritizing incidents by identifying incidental incidents. `DeepTIP.ipynb`
 
 <br/></br>
 ![Architecture](Overviewpng.png) </br>
@@ -20,6 +20,6 @@ We propose a deep-learning based approach, called DeepTIP (Deep learning based T
 
 ## Generality of DeepTIP
 
-To investigate the generality of DeepTIP, we evaluated the effectiveness of DeepTIP on traditional software bug severity prediction using an open-source dataset. Here, we compared DeepTIP with the state-of-the-art bug severity prediction approach (Zhang at al.), and used the same Mozilla dataset released in the compared work. `Mozilla`
+To investigate the generality of DeepIP, we evaluated the effectiveness of DeepIP on traditional software bug severity prediction using an open-source dataset. Here, we compared DeepIP with the state-of-the-art bug severity prediction approach (Zhang at al.), and used the same Mozilla dataset released in the compared work. `Mozilla`
 
 ## Thanks
