@@ -18,7 +18,7 @@ We propose a deep-learning based approach, called DeepIP (Deep learning based In
 
 3. Zhang at al., which applies the standard text mining method and calculates the similarities between a new bug report and historical bug reports using BM25F and LDA (Latent Dirichlet Allocation). According to the similarities, it infers the bug severity based on the top-k nearest neighbors among historical reports (KNN). `Baseline_KNN.ipynb` 
 
-## Generality of DeepTIP
+## Generality of DeepIP
 
 To investigate the generality of DeepIP, we evaluated the effectiveness of DeepIP on traditional software bug severity prediction using an open-source dataset. Here, we compared DeepIP with the state-of-the-art bug severity prediction approach (Zhang at al.), and used the same Mozilla dataset released in the compared work. `Mozilla`
 
